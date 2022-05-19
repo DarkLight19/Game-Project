@@ -1,0 +1,7 @@
+F:\---------IMI------\PROJECTS\Database\program\program\obj\Debug\program.csproj.AssemblyReference.cache
+F:\---------IMI------\PROJECTS\Database\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+F:\---------IMI------\PROJECTS\Database\program\program\bin\Debug\program.exe.config
+F:\---------IMI------\PROJECTS\Database\program\program\bin\Debug\program.exe
+F:\---------IMI------\PROJECTS\Database\program\program\bin\Debug\program.pdb
+F:\---------IMI------\PROJECTS\Database\program\program\obj\Debug\program.exe
+F:\---------IMI------\PROJECTS\Database\program\program\obj\Debug\program.pdb
